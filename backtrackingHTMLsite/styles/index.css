@@ -1,0 +1,21 @@
+code{
+    color: #660000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+pre {
+    color: #660000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+span {
+    color : blue;
+    font-size: 15px;
+    padding: 5px 4px;
+}
+
+
+
